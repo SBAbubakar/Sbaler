@@ -5,4 +5,3 @@ This is my first repository on GitHub
 i missed 18 
 19 in kano
 1st allowee
-5 dec
