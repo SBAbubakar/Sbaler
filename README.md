@@ -4,4 +4,4 @@ This is my first repository on GitHub
 17 November
 i missed 18 
 19 in kano
-1st allowee
+1st allowe
